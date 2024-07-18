@@ -1,1 +1,1 @@
-# .github
+# Configuration for GitHub
